@@ -9,8 +9,8 @@ export default function Home() {
     <main className="text=gray-400 bg-gray-950 body-font">
       <Navbar />
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Contact />
     </main>
   );

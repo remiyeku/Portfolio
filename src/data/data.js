@@ -41,8 +41,25 @@ export const projects = [
     subtitle: "A Current Weather and Forecast App",
     description:
       "A weather app built within React, fetching data from a geo cities and weather api concurrently to display the current weather and forecast of every city in the database. A city can be searched by a user and it will show comprehensive weather data. App is fully responsive.",
-    image: "/public/images/simpsy.png",
+    image: "/public/images/weather-app.jpg",
     link: "https://weather-blush-pi.vercel.app/",
     gitlink: "https://github.com/remiyeku/weather",
   },
+];
+
+export const skills = [
+  "JavaScript",
+  "TypeScript",
+  "React",
+  "Next.js",
+  "Node",
+  "Python",
+  "Git",
+  "MySQL",
+  "PostgreSQL",
+  "Pandas",
+  "Matplotlib",
+  "Numpy",
+  "Excel",
+  "PowerBI",
 ];

@@ -17,7 +17,7 @@ export default function About() {
             As a full stack developer, I possess a good understanding of web
             development principles and technologies however I understand I have
             lots to learn. My knowledge is complemented by a user-centered
-            design approach, ensuring that I prioritize the needs and
+            design approach, ensuring that I prioritise the needs and
             experiences of users throughout the development process. Overall, my
             achievements and soft skills make me a well-rounded developer, ready
             to contribute to dynamic and innovative projects. I am dedicated
